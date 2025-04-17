@@ -1,0 +1,13 @@
+pandas
+python-docx
+pdfplumber
+python-pptx
+openpyxl
+google-generativeai
+python-dotenv
+langchain-community
+langchain-huggingface
+streamlit==1.30.0
+transformers
+faiss-cpu
+torch==2.1.0 
